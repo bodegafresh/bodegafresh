@@ -1,11 +1,30 @@
-- 👋 Hi, I’m @bodegafresh
-- 👀 I’m interested in software archeticture, software develop, games and others
-- 🌱 I’m currently learning how to create videos to youtube
-- 📫 How to reach me ...
+# 👋 ¡Hola! Soy Marco Cerda (aka @bodegafresh)
 
-# De a poco con todo esto pero de manera constante
+👨‍💻 +14 años creando software que resuelve problemas reales.
 
-<!---
-bodegafresh/bodegafresh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Me especializo en:
+- Arquitectura de software y microservicios
+- Automatización de procesos con código
+- Sistemas a medida para empresas reales
+
+🛠️ Tecnologías que disfruto:
+- Java, Go, Python
+- Bash, SQL, NoSQL
+- Kubernetes, GitOps, REST APIs
+
+📦 Automatizaciones útiles:
+Estoy desarrollando herramientas que optimizan tu día a día. Desde leer tus correos del banco y llevarlos a una planilla, hasta scripts que te ahorran horas de trabajo repetitivo.
+
+📸 También estoy creando contenido técnico práctico:
+- Reels y videos cortos explicando herramientas reales
+- Tips para automatizar tu vida usando el ecosistema Google
+
+📬 Conectemos:
+- 🧠 GitHub: [@bodegafresh](https://github.com/bodegafresh)
+- 🔗 LinkedIn: [Marco Cerda Veas](https://www.linkedin.com/in/marco-cerda-veas/)
+- 📲 Instagram: [@bodegafresh_dev](https://instagram.com/bodegafresh_dev)
+
+---
+
+> ✨ De a poco, pero constante. Todo lo que subo aquí busca resolver un problema real. Si algo te sirve, úsalo, mejoralo y compártelo.
+
